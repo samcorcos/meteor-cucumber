@@ -25,3 +25,185 @@ To learn more about testing with Meteor, consider purchasing our book [The Meteo
 [![](http://www.meteortesting.com/img/tmtm.gif)](http://www.meteortesting.com/?utm_source=Cucumber&utm_medium=banner&utm_campaign=Cucumber)
 
 Your support helps us continue our work on Chimp, Meteor Cucumber and Velocity.
+
+## Server functions
+
+### connectAsync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.connectAsync() // this does something
+```
+
+### connectSync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.connectSync() // this does something
+```
+
+### connect()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.connect() // this does something
+```
+
+### callAsync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.callAsync() // this does something
+```
+
+### callSync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.callSync() // this does something
+```
+
+### call()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.call() // this does something
+```
+
+### applyAsync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.applyAsync() // this does something
+```
+
+### applySync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.applySync() // this does something
+```
+
+### apply()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.apply() // this does something
+```
+
+### callWithRandomSeedAsync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.callWithRandomSeedAsync() // this does something
+```
+
+### callWithRandomSeedSync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.callWithRandomSeedSync() // this does something
+```
+
+### callWithRandomSeed()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.callWithRandomSeed() // this does something
+```
+
+### subscribeAsync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.subscribeAsync() // this does something
+```
+
+### subscribeSync()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.subscribeSync() // this does something
+```
+
+### subscribe()
+
+*Arguments*
+
+- **something** -
+
+This does something
+
+```js
+server.subscribe() // this does something
+```
